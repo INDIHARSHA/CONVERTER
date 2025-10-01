@@ -13,7 +13,7 @@ public class Temperature
         System.out.println("6.Fahrenheit to Kelvin");
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
-        system.out.println("Enter the value to convert");
+        System.out.println("Enter the value to convert");
         
         
        if(n<0 || n>7)
