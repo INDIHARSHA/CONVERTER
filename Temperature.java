@@ -18,7 +18,7 @@ public class Temperature
         
        if(n<0 || n>7)
        {
-           System.out.println("INVALID");
+           System.out.println("INVALID OPTION !! PLEASE CHOOSE BETWEEN 1-6");
        }
         
         int k=sc.nextInt();
